@@ -1,8 +1,12 @@
 doSqlWeb
+
 ========
-doSqlWeb is REST compatible
-doSqlWeb - Put Data in your existing
-doSqlWeb - a PHP Template-Engines http://de.wikipedia.org/wiki/Template-Engine#Template-Engines_f.C3.BCr_PHP 
+
+is REST compatible.
+
+Put Data in your existing
+
+a PHP Template-Engines http://de.wikipedia.org/wiki/Template-Engine#Template-Engines_f.C3.BCr_PHP 
 
 doSqlWeb - it needs to be upgradet. if you have time and fun develop on it pls contact.
 
